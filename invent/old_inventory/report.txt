@@ -1,0 +1,6 @@
+Inventory Report
+
+Name: CHAVE PH1 GEDORE VDE 100 MM
+Description: CHAVE FENDA PHILIPS ISOLADA VDE
+Quantity: 1
+
